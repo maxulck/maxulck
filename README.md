@@ -9,7 +9,7 @@ Disponible para trabajo remoto y presencial
 
 Soy Técnico en Análisis y Programación egresado de INACAP, con experiencia desarrollando funcionalidades reales para plataformas del rubro automotriz. Trabajo en todo el stack — desde diseño de APIs REST y lógica de negocio hasta interfaces en React e integración con servicios cloud, siempre bajo metodología Scrum.
 
-Actualmente profundizando en **Machine Learning e Inteligencia Artificial con Python**.
+Actualmente profundizando en **Go** y **Machine Learning con Python**.
 
 ---
 
@@ -17,17 +17,38 @@ Actualmente profundizando en **Machine Learning e Inteligencia Artificial con Py
 
 **Frontend:** JavaScript · TypeScript · React · HTML5 · CSS3 · Tailwind CSS · Bootstrap
 
-**Backend:** Node.js · Python · PHP · C#
+**Backend:** Node.js · Go · Python · PHP · C#
 
-**Base de datos y Cloud:** MongoDB · SQL · AWS S3
+**Base de datos y Cloud:** MongoDB · PostgreSQL · Redis · SQL · AWS S3
 
-**Herramientas:** Git · Docker · Postman · Swagger · Scrum · Jira · GitLab
+**Herramientas:** Git · Docker · Postman · Swagger · GraphQL · WebSockets · Scrum · Jira · GitLab
 
 ---
 
 ## 📌 Proyectos destacados
 
-> 🚧 Próximamente — estoy subiendo mis mejores trabajos...
+**[JobMatch AI](https://github.com/maxulck/jobmatch-ai)**  
+App full stack que analiza la compatibilidad entre una oferta de trabajo y un CV usando IA. Devuelve un score de compatibilidad, skills que coinciden y faltan, carta de presentación personalizada y preguntas probables de entrevista.  
+`React` `TypeScript` `Go` `Claude API` `Tailwind CSS` `Vite`
+
+**[Vehicle Vault](https://github.com/maxulck/vehicle-vault)**  
+App full stack para gestionar un inventario privado de vehículos con autenticación de usuarios. Incluye registro, login con JWT, CRUD completo de vehículos y filtros por búsqueda y estado. Desplegada en Netlify y Render.  
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `bcrypt` `Vite`
+
+**[Finance Tracker](https://github.com/maxulck/finance-tracker)**  
+Aplicación web para registrar ingresos y gastos personales. Calcula el balance automáticamente, permite filtrar por categoría, tipo y fechas, y muestra un resumen visual con gráfico.  
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Recharts` `Vite`
+
+**[Task Manager Calendar](https://github.com/maxulck/task-manager-calendar)**  
+Organizador de tareas con vista de calendario mensual. Permite crear, editar y eliminar tareas por día, marcarlas como completadas y filtrarlas por estado.  
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Vite`
+
+---
+
+## 📊 Estadísticas
+
+![Estadísticas de maxulck](https://github-readme-stats.vercel.app/api?username=maxulck&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=maxulck&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
 ---
 
@@ -37,4 +58,4 @@ Actualmente profundizando en **Machine Learning e Inteligencia Artificial con Py
 
 ---
 
-
+*"Siempre construyendo, siempre aprendiendo."*
