@@ -31,17 +31,10 @@ Actualmente profundizando en **Machine Learning e Inteligencia Artificial con Py
 
 ---
 
-## 📊 Estadísticas
-
-![Estadísticas de maxulck](https://github-readme-stats.vercel.app/api?username=maxulck&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=maxulck&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
----
-
 ## 📬 Contacto
 
 📧 zunigamaximiliano156@gmail.com
 
 ---
 
-*"Siempre construyendo, siempre aprendiendo."*
+
